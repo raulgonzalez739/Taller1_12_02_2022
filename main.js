@@ -1,8 +1,12 @@
-alert('Punto 4, Raul');
-console.log('Punto 4, Todo sobre variables, Raul');
-let variablestring = 'texto de prueba';
-console.log(variablestring);
+alert('Punto 5, Raul');
+console.log('Punto 5, pedir_Datos_Por_Prompt, Raul');
+// let variablestring = 'texto de prueba';
+// console.log(variablestring);
+// let variablenumero = 7;
+// console.log(variablenumero);
+// let variableboolenanosi = true;
+// console.log(variableboolenanosi);
 let variablenumero = 7;
 console.log(variablenumero);
-let variableboolenanosi = true;
-console.log(variableboolenanosi);
+variablenumero = prompt("Ingrese número: ",'');
+console.log(variablenumero);
