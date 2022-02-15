@@ -1,2 +1,2 @@
-alert('Conexión con el archivo JavaScript Exitoso, Raul');
-console.log('Conexión con el archivo JavaScript Exitoso, Raul');
+alert('Hola mundo punto 3, Raul');
+console.log('Hola mundo punto 3, Raul');
